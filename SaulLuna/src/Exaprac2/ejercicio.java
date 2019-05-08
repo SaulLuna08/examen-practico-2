@@ -12,7 +12,7 @@ public class ejercicio {
         double mayor=-1000000;
         int EmM=0;
         
-        cant=Integer.parseInt(JOptionPane.showInputDialog("Cuantos productos desea registrar"));
+        cant=Integer.parseInt(JOptionPane.showInputDialog("Cuantos Empleados desea registrar"));
         
         String Empleado[] = new String[cant];
         int HorasT [] = new int[cant];
